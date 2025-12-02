@@ -1,37 +1,27 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Juhi Singh - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Juhi Singh Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
-
----
-
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+**Email:** [js3669@cornell.edu](mailto:js3669@cornell.edu) | | | **Phone:** +1 203 313 6015
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
-
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+  GPA: 4.22/4.3 | Graduation: May, 2027
 
 ---
 
-#### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+#### Skills  
+- **Software:** SolidWorks, ANSYS, CFD (ANSYS Fluent), AutoCAD, Fusion 360, 3D Printing, Rapid Prototyping, MATLAB, Python, LaTeX, STAAD (basic FEA), XFLR5 (an analysis tool for airfoils, wings and planes)
+- **Manufacturing:** Machining (Mill, Lathe), Composites, Soldering, Drill Press, Band Saw, Woodwork 
 
 ---
 
@@ -53,18 +43,6 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
   [Month, Year] - [Month, Year]  
   - Responsibility 1  
   - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
-
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
 
 ---
 
